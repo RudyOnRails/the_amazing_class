@@ -1,0 +1,29 @@
+h1 {
+  font-size: 2em;
+  font-weight: lighter;
+}
+
+img {
+  width: 20%;
+}
+
+body {
+  background: url("paisley.png");
+  text-align: center;
+}
+
+th, td {
+  border: 3px solid black;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+iframe {
+  border: 10px solid;
+}
+
+video {
+  text-align: center;
+}

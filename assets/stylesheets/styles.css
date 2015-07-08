@@ -1,20 +1,7 @@
-header h1 {
-  text-align: center;
-  font-weight: 100;
-}
-
-img {
-  width: 20%;
-}
-
-body {
-  background: url("paisley.png");
-  text-align: center;
-}
-
 .container {
   width: 80%;
   margin: 0 auto;
+  background: red;
 }
 
 nav li {
@@ -25,6 +12,7 @@ nav li {
 nav {
   text-align: center;
   margin: 0 auto;
+  background-color: blue;
 }
 
 nav li a {
@@ -40,25 +28,11 @@ nav a:hover {
   color: red;
 }
 
-th, td {
-  border: 3px solid black;
-}
-
-table {
-  border-collapse: collapse;
-}
-
 .active {
   font-weight: bold;
 }
 
-iframe {
-  border: 10px solid;
-}
-
-video {
-  text-align: center;
-}
+header nav ul li
 
 
 
